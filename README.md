@@ -31,7 +31,7 @@ $> exit
 
 ## Contributors
 
-* Ívany Pinheiro
-* Clara Franco
+* Ívany Pinheiro (@pin3dev)
+* Clara Franco (@clima-fr)
 
 
